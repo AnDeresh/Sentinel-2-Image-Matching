@@ -1,0 +1,4 @@
+processed_data/*
+!processed_data/*.txt
+__pycache__
+my_paths.py
