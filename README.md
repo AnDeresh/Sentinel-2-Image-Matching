@@ -77,7 +77,7 @@ The data was taken from Kaggle:
 Each folder in this dataset specifies a single Sentinel2 satellite image.
 The processed Sentinel-2 images for this project can be downloaded from the Hugging Face Datasets Hub:
 
-- **Download processed data**: 
+- **Download processed data**:
 [Sentinel-2 Image Matching Dataset](https://huggingface.co/datasets/AnnaDee/Sentinel-2-Image-Matching/blob/main/processed_data.rar)
 
 Please make sure to download the dataset and specify the correct paths in `paths.py` for the `processed_data_folder`, `source_folder`, and `destination_folder` as per your local setup.
@@ -99,8 +99,8 @@ To visualize matches for a pair of images:
 ## Examples
 **Visualization for Random Pairs**:
    Displays matches for three randomly selected image pairs:
-   ![Example 1](images\img_1.png.png)
-   ![Example 2](images\img_1.png.png)
+   ![Example 1](images/img_1.png.png)
+   ![Example 2](images/img_1.png.png)
 
 ---
 
