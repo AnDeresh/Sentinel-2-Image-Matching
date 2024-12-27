@@ -61,7 +61,7 @@ Sentinel-2-Image-Matching/
   source satellite_env/bin/activate
   ```
 
-### 3. Install Dependencies:
+### 3. Install Dependencies: 
   ```bash
   pip install -r requirements.txt
   ```
@@ -70,9 +70,15 @@ Sentinel-2-Image-Matching/
 
 ## Dataset
 
+- **Data Source:**
+The data was taken from Kaggle:  
+[Deforestation in Ukraine from Sentinel2 data](https://www.kaggle.com/datasets/isaienkov/deforestation-in-ukraine)
+
+Each folder in this dataset specifies a single Sentinel2 satellite image.
 The processed Sentinel-2 images for this project can be downloaded from the Hugging Face Datasets Hub:
 
-- **Download processed data**: [Sentinel-2 Image Matching Dataset](https://huggingface.co/datasets/AnnaDee/Sentinel-2-Image-Matching/blob/main/processed_data.rar)
+- **Download processed data**: 
+[Sentinel-2 Image Matching Dataset](https://huggingface.co/datasets/AnnaDee/Sentinel-2-Image-Matching/blob/main/processed_data.rar)
 
 Please make sure to download the dataset and specify the correct paths in `paths.py` for the `processed_data_folder`, `source_folder`, and `destination_folder` as per your local setup.
 
