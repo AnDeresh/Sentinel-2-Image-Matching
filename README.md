@@ -42,7 +42,7 @@ Sentinel-2-Image-Matching/
 ## Setup Instructions
 
 ### 1. Clone the Repository
-To get started with the project, clone the repository using the following command:
+- To get started with the project, clone the repository using the following command:
   ```bash
   git clone git@github.com:AnDeresh/Sentinel-2-Image-Matching.git
   cd Sentinel-2-Image-Matching
