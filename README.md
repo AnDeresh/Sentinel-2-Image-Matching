@@ -100,7 +100,7 @@ To visualize matches for a pair of images:
 **Visualization for Random Pairs**:
    Displays matches for three randomly selected image pairs:
    ![Example 1](images/img_1.png)
-   ![Example 2](images/img_1.png)
+   ![Example 2](images/img_2.png)
 
 ---
 
